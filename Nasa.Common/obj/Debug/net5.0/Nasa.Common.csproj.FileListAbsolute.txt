@@ -1,0 +1,15 @@
+D:\nasa\NasaHackathon\Nasa.Common\bin\Debug\net5.0\Nasa.Common.deps.json
+D:\nasa\NasaHackathon\Nasa.Common\bin\Debug\net5.0\Nasa.Common.dll
+D:\nasa\NasaHackathon\Nasa.Common\bin\Debug\net5.0\Nasa.Common.pdb
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.AssemblyInfoInputs.cache
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.AssemblyInfo.cs
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.csproj.CoreCompileInputs.cache
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.dll
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\refint\Nasa.Common.dll
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.pdb
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\ref\Nasa.Common.dll
+D:\nasa\NasaHackathon\Nasa.Common\bin\Debug\net5.0\Nasa.Common.runtimeconfig.json
+D:\nasa\NasaHackathon\Nasa.Common\bin\Debug\net5.0\Nasa.Common.runtimeconfig.dev.json
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.csproj.AssemblyReference.cache
+D:\nasa\NasaHackathon\Nasa.Common\obj\Debug\net5.0\Nasa.Common.genruntimeconfig.cache
